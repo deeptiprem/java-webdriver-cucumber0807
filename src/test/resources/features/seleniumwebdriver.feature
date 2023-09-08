@@ -8,7 +8,7 @@ Feature: practice with Selenium Webdriver Methods
     Given DP navigates to URL "ASK"
     Then DP gets page information
     Then DP maximizes the window
-    Then I wait for 3 sec
+    Then I wait for 5 sec
 
 
 
